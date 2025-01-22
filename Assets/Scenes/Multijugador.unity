@@ -375,7 +375,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 1, g: 0, b: 0.24020338, a: 1}
+  m_BackGroundColor: {r: 1, g: 0.5801887, b: 0.74702805, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -866,8 +866,8 @@ GameObject:
   - component: {fileID: 1003466673}
   - component: {fileID: 1003466672}
   - component: {fileID: 1003466671}
-  - component: {fileID: 1003466670}
   - component: {fileID: 1003466669}
+  - component: {fileID: 1003466670}
   m_Layer: 0
   m_Name: Pala B
   m_TagString: Vertical
